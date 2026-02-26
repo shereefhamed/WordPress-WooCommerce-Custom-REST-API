@@ -33,14 +33,10 @@ cart management, orders,coupons, and payment methods.
 
 1.  Copy plugin folder into:
 
-```{=html}
-```
     /wp-content/plugins/
 
 2.  Activate plugin from:
 
-```{=html}
-```
     WordPress Admin → Plugins
 
 3.  Configure JWT secret key inside `wp-config.php`:
